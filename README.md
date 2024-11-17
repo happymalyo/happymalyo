@@ -1,8 +1,8 @@
-
+<img alt="intro" src="https://github.com/happymalyo/happymalyo/blob/main/img/intro.png" width="900" height="450"/>
 <div class="flex justify-between">
 <div class="item">
-<h1> Hey👋 ____ </h1>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+<h1>👋 _<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey!</h1>
+
 <p>Welcome to my page! </br> I'm Happy Malyo, Fullstack developer from <img src="https://flagpedia.net/data/flags/w580/mg.webp" width="20"/> <b>Antananarive, Madagascar</b></b>. </p>
 </div>
 <h3>Toolkits I use to bring ideas to life</h3>
