@@ -1,26 +1,20 @@
+
 <div class="flex justify-between">
 <div class="item">
 <h1> Hey👋 ____ </h1>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 <p>Welcome to my page! </br> I'm Happy Malyo, Fullstack developer from <img src="https://flagpedia.net/data/flags/w580/mg.webp" width="20"/> <b>Antananarive, Madagascar</b></b>. </p>
 </div>
-<div class="item">
-<img alt="robot" src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" style="margin-top:50px; box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);" width="200"/></div>
-</div>
 <h3>Toolkits I use to bring ideas to life</h3>
 <p>
- <img alt="Adonis Js" src="https://img.shields.io/badge/AdonisJS-%23000000?style=for-the-badge&logo=adonisjs&logoColor=%23ffffff
- " width="80"/>
  <img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" width="60"/>
   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" width="70"/>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img src="https://img.shields.io/badge/ShadCN%20UI-%23000000?style=for-the-badge&logo=react&logoColor=%23ffffff" width="80" />
 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="three js" src="https://img.shields.io/badge/Three.js-%23006600?style=for-the-badge&logo=three.js&logoColor=%23ffffff
-  " width="80"/>
-  <img src="https://img.shields.io/badge/LLM-%23000000?style=for-the-badge&logo=python&logoColor=%23ffffff" width="50" />
- <img src="https://img.shields.io/badge/GatsbyJS-%237C4DFF?style=for-the-badge&logo=gatsby&logoColor=%23ffffff" width="78" />
+  <img alt="llm" src="https://img.shields.io/badge/LLM-%23000000?style=for-the-badge&logo=python&logoColor=%23ffffff" width="50" />
+  <img alt="gatsby" src="https://img.shields.io/badge/GatsbyJS-%237C4DFF?style=for-the-badge&logo=gatsby&logoColor=%23ffffff" width="78" />
 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
