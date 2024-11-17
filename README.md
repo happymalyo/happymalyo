@@ -5,7 +5,9 @@
 
 <p>Welcome to my page! </br> I'm Happy Malyo, Fullstack developer from <img src="https://flagpedia.net/data/flags/w580/mg.webp" width="20"/> <b>Antananarive, Madagascar</b></b>. </p>
 </div>
-<h3>Toolkits I use to bring ideas to life</h3>
+
+<br/>
+<h3>My Toolkits👨‍💻 </h3>
 <p>
  <img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" width="60"/>
   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" width="70"/>
