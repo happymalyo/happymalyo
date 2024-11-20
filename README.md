@@ -75,7 +75,7 @@ Feel free to check out my projects and collaborate with me. Enjoy👌
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/happymalyo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/happymalyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mario-francisco-randrianandrasana-b64151196/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/happymalyo" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://app.daily.dev/happymalyo target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
+<a href="https://app.daily.dev/happymalyo" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
 </p>
 
 ---
