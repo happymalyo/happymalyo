@@ -11,8 +11,7 @@ Frontend Developer at [Flexknit](https://www.flexknit.com/);
 - :video_game: **Chess** ... Ping me [here](https://www.chess.com/member/m4lyod4iki)
 
 
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happymalyo&theme=tokyonight" alt="happymalyo's streak"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happymalyo&layout=compact&theme=tokyonight" alt="happymalyo's top languages"/> |
-| ------------- | ------------- |
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happymalyo&layout=compact&theme=tokyonight" alt="happymalyo's top languages"/>
 
 
 
