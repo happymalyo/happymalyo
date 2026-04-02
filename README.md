@@ -16,4 +16,4 @@
 
 **Interests**
 
-`Comics / Bande Dessinée` · `Concept Art` · `Chess`
+`Comics / Bande Dessinée` · `Concept Art` · `Chess` · `Anime`
